@@ -2,9 +2,9 @@
 ## Overview
 In this analysis, we trained and evaluated models with unbalanced classes using the imbalanced-learn and scikit-learn libraries. Utilizing these libraries, we built and evaluated models using resampling. The purpose of this was to eventually use different machine learning models to predict credit risk and further decide whether these models should be used in the future to predict credit risk.
 ## Results
-- In the Naive Random Oversampling model the balanced accuracy test came back with 66%, the precision for high risk at 1%, low risk at 100%, and the avg/total was 99%. The recall score for high risk was 72%, low risk at 60%, and the avg/total was 60%.
+- In the Native Random Oversampling model the balanced accuracy test came back with 66%, the precision for high risk at 1%, low risk at 100%, and the avg/total was 99%. The recall score for high risk was 72%, low risk at 60%, and the avg/total was 60%.
 
-![Naive Random Oversampling](https://user-images.githubusercontent.com/115501756/222326682-cdf784a6-432b-4eca-bddd-15132f9088d7.png)
+![Native Random Oversampling](https://user-images.githubusercontent.com/115501756/222326682-cdf784a6-432b-4eca-bddd-15132f9088d7.png)
 
 - In the SMOTE Oversampling model the balanced accuracy test came back with 66%, the precision for high risk at 1%, low risk at 100%, and the avg/total was 99%. The recall score for high risk was 61%, low risk at 70%, and the avg/total was 70%.
 
